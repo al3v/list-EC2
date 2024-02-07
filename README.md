@@ -5,7 +5,7 @@ This script checks the status (running or stopped) of AWS EC2 instances in all a
 ## Prerequisites
 
 - AWS CLI installed and configured with appropriate credentials
-- `jq` command-line JSON processor (install with `sudo apt-get install jq` on Linux)
+- `jq` command-line JSON processor (install with `sudo apt-get install jq` on Linux :penguin: ) 
 
 ## Usage
 
